@@ -6,7 +6,7 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 
 ### Talking about Personal Stuffs:
 
-* :clapper: I'm currently working in a personal Web Entertainment project
+* :clapper: I'm currently working in nothing interesting 
 * :rocket: I'm currently learning NextJS and MongoDB-
 * :speech_balloon: Ask me about anything, I am happy to help
 * :book: I regulary read articles on [medium](https://medium.com/).
