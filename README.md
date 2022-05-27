@@ -25,7 +25,7 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
+    <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3"></img>
 </p>
 
 ### :chart_with_upwards_trend: My GitHub Stats
