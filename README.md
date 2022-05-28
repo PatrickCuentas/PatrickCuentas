@@ -10,7 +10,7 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 
 ### Talking about Personal Stuffs:
 
-* :clapper: I'm currently working in nothing interesting 
+* :clapper: I'm currently working with DDD
 * :rocket: I'm currently learning NextJS and MongoDB-
 * :speech_balloon: Ask me about anything, I am happy to help
 * :book: I regulary read articles on [medium](https://medium.com/).
@@ -31,7 +31,6 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3"></img>
 </p>
 
 ### :chart_with_upwards_trend: My GitHub Stats
@@ -39,11 +38,5 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickCuentas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCuentas&layout=compact)](https://github.com/PatrickCuentas/github-readme-stats)
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
