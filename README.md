@@ -1,5 +1,9 @@
 ## Hi there, I'm Patrick Cuentas 🎉 
 
+<p align="center">
+  <img src="RandolphCarter.gif" width="915" align="center">
+</p>
+
 ## Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PatrickCuentas.visitor-badge&left_text=My%20Page%20Visitors)
 
 I am a software enginner student and passionate with FrontEnd development. I love programming, reading and games. :video_game: :coffee: :books:
