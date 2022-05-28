@@ -13,6 +13,8 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 * :mailbox: How to reachme : patrickcuentasmariano@gmail.com
 
 <p align="center">
+    <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3"></img>
+&nbsp&nbsp
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img> 
