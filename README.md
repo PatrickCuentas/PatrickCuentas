@@ -17,14 +17,9 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 * :mailbox: How to reachme : patrickcuentasmariano@gmail.com
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3](https://user-images.githubusercontent.com/74751873/172949695-1aef554d-d3c3-4ca4-95ce-c7fbcc7df962.svg"></img>
+  <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3https://user-images.githubusercontent.com/74751873/172949695-1aef554d-d3c3-4ca4-95ce-c7fbcc7df962.svg"></img>
 &nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/74751873/172950158-3d317e68-546b-4295-ac16-29dc23e4ac9e.svg"></img>
-&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/74751873/172950163-ff599f23-24af-4069-91af-9bdbcfc0df1d.svg"></img>
-&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/74751873/172950165-fa6c8d39-5a4e-4bef-9734-e2b2c1c1f732.svg"></img>
-&nbsp&nbsp
+
  </p>
 
 ### :chart_with_upwards_trend: My GitHub Stats
