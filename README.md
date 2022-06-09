@@ -1,31 +1,39 @@
-## Hi there, I'm Patrick Cuentas 🎉 
-
 <p align="center">
   <img src="RandolphCarter.gif" width="915" align="center">
 </p>
 
+
+<h1 align="center">Hi 👋, I'm Patrick</h1>
+<h3 align="center">A passionate frontend developer from Peru</h3>
+
+
+
 ## Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PatrickCuentas.visitor-badge&left_text=My%20Page%20Visitors)
 
-I am a software enginner student and passionate with FrontEnd development. I love programming, reading and games. :video_game: :coffee: :books:
 
-### Talking about Personal Stuffs:
+- 🔭 I’m currently working on **AudioPhile Web App**
 
-* :clapper: I'm currently working with DDD
-* :rocket: I'm currently learning NextJS and MongoDB-
-* :speech_balloon: Ask me about anything, I am happy to help
-* :book: I regulary read articles on [medium](https://medium.com/).
-* :mailbox: How to reachme : patrickcuentasmariano@gmail.com
+- 🌱 I’m currently learning **GraphQL,Angular,Design Patterns with Typescript, Unit,Integration,E2E Testing in agile development**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3https://user-images.githubusercontent.com/74751873/172949695-1aef554d-d3c3-4ca4-95ce-c7fbcc7df962.svg"></img>
-&nbsp&nbsp
+- 👯 I’m looking to collaborate on **FrontEnd WebApps and UX Design Process**
 
- </p>
+- 🤝 I’m looking for help with **NeoVim, and Typescript for react :p**
 
-### :chart_with_upwards_trend: My GitHub Stats
+- 👨‍💻 All of my projects are available at [https://patrick-portafolio.netlify.app/](https://patrick-portafolio.netlify.app/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickCuentas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- 📝 I regularly write articles on [medium](medium)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCuentas&layout=compact)](https://github.com/PatrickCuentas/github-readme-stats)
+- 💬 Ask me about **react,expressjs,nodejs,mongodb,tailwindcss,react-redux,firebase,nextjs,mysql,javascript,html,css,bash,git,responsive design,accesbility,scrum,agile**
+
+- 📫 How to reach me **patrickcuentasmariano@gmail.com**
+
+- ⚡ Fun fact **vim user with no linux env 😅**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcuentas&show_icons=true&locale=en&layout=compact" alt="patrickcuentas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcuentas&show_icons=true&locale=en" alt="patrickcuentas" /></p>
 
 
