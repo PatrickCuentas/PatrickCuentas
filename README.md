@@ -17,6 +17,12 @@ I am a software enginner student and passionate with FrontEnd development. I lov
 * :mailbox: How to reachme : patrickcuentasmariano@gmail.com
 
 <p align="center">
+  ![reactjs_logo_icon_170805](https://user-images.githubusercontent.com/74751873/172949695-1aef554d-d3c3-4ca4-95ce-c7fbcc7df962.svg)
+ </p>
+
+<p align="center">
+    
+  
     <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=5ed3f3"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
