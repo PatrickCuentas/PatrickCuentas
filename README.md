@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [medium](medium)
 
-- 💬 Ask me about **react,expressjs,nodejs,mongodb,tailwindcss,react-redux,firebase,nextjs,mysql,javascript,html,css,bash,git,responsive design,accesbility,scrum,agile**
+- 💬 Ask me about **react,react and more react**
 
 - 📫 How to reach me **patrickcuentasmariano@gmail.com**
 
