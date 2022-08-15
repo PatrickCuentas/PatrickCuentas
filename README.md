@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **NeoVim, and Typescript for react :p**
 
-- 👨‍💻 All of my projects are available at [https://patrick-portafolio.app/](https://patrick-portafolio.app/)
+- 👨‍💻 All of my projects are available at [https://patrick-portafolio.app/](https://patrick-portafolio.netlify.app/)
 
 - 📝 I regularly write articles on [medium](medium)
 
