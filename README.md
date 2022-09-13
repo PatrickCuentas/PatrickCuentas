@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **FrontEnd WebApps and UX Design Process**
 
-- 🤝 I’m looking for help with **NeoVim, and Typescript for react :p**
+- 🤝 I’m looking for help with **my Blog 🤙**
 
 - 👨‍💻 All of my projects are available at [https://portafolio.app/](https://portafolio.app/)
 
