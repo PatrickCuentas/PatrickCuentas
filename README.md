@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">A passionate developer from Peru</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **AudioPhile Web App**
 
-- 🌱 I’m currently learning **GraphQL,Angular,Design Patterns with Typescript, Unit,Integration,E2E Testing in agile development**
+- 🌱 I’m currently learning **Java with BDD,TDD and E2E**
 
 - 👯 I’m looking to collaborate on **FrontEnd WebApps and UX Design Process**
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [medium](medium)
 
-- 💬 Ask me about **react,react and more react**
+- 💬 Ask me about **IT**
 
 - 📫 How to reach me **patrickcuentasmariano@gmail.com**
 
